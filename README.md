@@ -21,7 +21,4 @@ Local preview
 Contributing
 PRs welcome. Keep index.html at repo root or update Vercel root setting.
 
-License
-Specify a license (e.g., MIT) or add your choice here.
-
 Contact szymon.karpierz.szn@gmail.com
