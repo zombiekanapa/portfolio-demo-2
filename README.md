@@ -24,7 +24,4 @@ PRs welcome. Keep index.html at repo root or update Vercel root setting.
 License
 Specify a license (e.g., MIT) or add your choice here.
 
-Contact
-ZOMBIEKANAPA 
-szymon.karpierz.szn@gmail.com
-+48513943126
+Contact szymon.karpierz.szn@gmail.com
