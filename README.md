@@ -25,8 +25,6 @@ License
 Specify a license (e.g., MIT) or add your choice here.
 
 Contact
-ZOMBIEKANAPA (Szymon Karpierz) 
-  📧 szymon.karpierz.szn@gmail.com
-  📱 +48 513943126
-  💼 linkedin.com/in/szymonkarpierz
-  🎧 zombiekanapa.bandcamp.com
+ZOMBIEKANAPA 
+szymon.karpierz.szn@gmail.com
++48513943126
