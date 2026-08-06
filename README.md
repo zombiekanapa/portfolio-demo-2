@@ -3,7 +3,7 @@ Simple static portfolio demo for zombiedemo.vercel.app
 Live demo: https://zombiedemo.vercel.app/
 
 Description
-A static landing page built from plain HTML/CSS/JS. Deployed on Vercel from this repository.
+  A static landing page built from plain HTML/CSS/JS. Deployed on Vercel from this repository.
 
 How to update
 
