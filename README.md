@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Simple static portfolio demo for zombiedemo.vercel.app
 
-# Run and deploy your AI Studio app
+Live demo: https://zombiedemo.vercel.app/
 
-This contains everything you need to run your app locally.
+Description
+A static landing page built from plain HTML/CSS/JS. Deployed on Vercel from this repository.
 
-View your app in AI Studio: https://ai.studio/apps/e4cb0db5-13cf-48ae-b859-dbc59ffabfb3
+How to update
 
-## Run Locally
+1.Edit files locally.
+2.Commit and push to the production branch (main):
+  git add .
+  git commit -m "Update site"
+  git push origin main
+  Vercel will auto-deploy changes pushed to the production branch.
 
-**Prerequisites:**  Node.js
+Local preview
+- Open index.html in a browser, or use a static server:
+  npx serve . (install with npm i -g serve if needed)
 
+Contributing
+PRs welcome. Keep index.html at repo root or update Vercel root setting.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+License
+Specify a license (e.g., MIT) or add your choice here.
+
+Contact
+zombiekanapa (szymon.karpierz.szn@gmail.com)
