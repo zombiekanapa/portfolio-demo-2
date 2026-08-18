@@ -1,6 +1,0 @@
-{
-  "name": "Portfolio Demo Zombie",
-  "description": "A single-page portfolio/demo landing site for ADHD-friendly micro-productivity tools and AI experiments.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
